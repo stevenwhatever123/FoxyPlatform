@@ -11,3 +11,6 @@
  Some in-game photos without the buttons:
  ![image](https://github.com/stevenwhatever123/FoxyPlatform/blob/master/Photos/photo.PNG)
  ![image](https://github.com/stevenwhatever123/FoxyPlatform/blob/master/Photos/photo2.PNG)
+  
+  
+  
