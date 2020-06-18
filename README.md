@@ -9,7 +9,7 @@
  In order to gain score and extra time, the player has to keep moving and step on every platform ahead.
    
    
- I don't have an android phone, so I don't know how the game performs.
+ I don't have an android phone, so I don't know how the game performs.  
  But from what I tested inside the engine, it works fine.
 
  Some in-game photos without the buttons:
